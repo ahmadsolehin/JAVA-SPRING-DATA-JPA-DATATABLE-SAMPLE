@@ -1,5 +1,4 @@
 # spring-data-jpa-datatables-sample
-This project is a sample Spring Boot project using https://github.com/darrachequesne/spring-data-jpa-datatables
 
 ## How to run
 
